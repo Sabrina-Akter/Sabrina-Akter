@@ -1,7 +1,7 @@
 <h1 align="center">Hi, there. I am Sabrina.</h1>
 <h4 align="center">I am a final-year undergraduate student pursuing Computer Science and Engineering who has a keen interest in problem-solving and competitive programming. In my free time, I enjoy developing side projects and learning new technologies.</h3>
 
-- 👨‍💻 Portfolio: [https://github.com/Sabrina-Akter](https://github.com/Sabrina-Akter)
+- 👨‍💻 Portfolio: [**https://github.com/Sabrina-Akter**](https://github.com/Sabrina-Akter)
 
 - 📫 Email: **sabrinhossain202@gmail.com**
 
