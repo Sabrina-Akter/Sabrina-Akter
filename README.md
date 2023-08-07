@@ -1,7 +1,7 @@
 <h1 align="center">Hi, there. I am Sabrina.</h1>
 <h4 align="center">I am a final-year undergraduate student pursuing Computer Science and Engineering who has a keen interest in problem-solving and competitive programming. In my free time, I enjoy developing side projects and learning new technologies.</h3>
 
-- 📫 Email: **sabrinhossain202@gmail.com**
+- 📫 Email: **sabrinahossain202@gmail.com**
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
