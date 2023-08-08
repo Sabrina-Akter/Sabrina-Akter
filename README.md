@@ -15,28 +15,19 @@ Gmail: **sabrinahossain202@gmail.com**
 
 ## 💻 Tech Stack:
 **✅ Programming Languages:** <br>
-&nbsp;&nbsp;    • C <br>
-&nbsp;&nbsp;    • C++ <br>
-&nbsp;&nbsp;    • Python <br>
-&nbsp;&nbsp;    • JavaScript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C, C++, Python, JavaScript
 
 **✅ Front-end Development:** <br>
-&nbsp;&nbsp;    • HTML5 <br>
-&nbsp;&nbsp;    • CSS3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3
 
 **✅ Back-end Development:** <br>
-&nbsp;&nbsp;    • Django <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django
 
 **✅ Database Technologies:** <br>
-&nbsp;&nbsp;    • SQLite <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQLite
 
 **✅ Version Control:** <br>
-&nbsp;&nbsp;    • Git <br>
-&nbsp;&nbsp;    • GitHub <br>
-
-**✅ IDE:** <br>
-&nbsp;&nbsp;    • Visual Studio Code <br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sabrina-Akter&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
