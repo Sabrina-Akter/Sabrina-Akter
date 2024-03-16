@@ -1,7 +1,7 @@
 # 💫 About Me:
 • I am a final-year undergraduate student pursuing Computer Science and Engineering.
 <br>
-• I have a keen interest in problem-solving and competitive programming.
+• I have a keen interest in problem-solving and competitive programming. Over the past 4 years, I have solved 1500+ programming problems, actively participated in numerous national programming contests, and have been honored with the opportunity to serve as a Competitive Programming Trainer and a Problem-Setter in my department.
 <br>
 • Besides, I enjoy developing side projects and learning new technologies.
 
@@ -18,13 +18,13 @@ Gmail: **sabrinahossain202@gmail.com**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C, C++, Python, JavaScript
 
 **✅ Front-end Development:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, ReactJS
 
 **✅ Back-end Development:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django
 
 **✅ Database Technologies:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQLite
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQLite, PostgreSQL
 
 **✅ Version Control:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
