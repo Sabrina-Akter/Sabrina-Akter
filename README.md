@@ -1,7 +1,9 @@
 # 💫 About Me:
 • I am a final-year undergraduate student pursuing Computer Science and Engineering.
 <br>
-• I have a keen interest in problem-solving and competitive programming. Over the past 4 years, I have solved 1500+ programming problems, actively participated in numerous national programming contests, and have been honored with the opportunity to serve as a Competitive Programming Trainer and a Problem-Setter in my department.
+• I have a keen interest in problem-solving and competitive programming. 
+<br>
+• Over the past 4 years, I have solved 1500+ programming problems, actively participated in numerous national programming contests, and have been honored with the opportunity to serve as a Competitive Programming Trainer and a Problem-Setter in my department.
 <br>
 • Besides, I enjoy developing side projects and learning new technologies.
 
