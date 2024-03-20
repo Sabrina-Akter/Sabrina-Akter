@@ -24,7 +24,7 @@ Gmail: **sabrinahossain202@gmail.com**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django
 
 **✅ Database Technologies:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQLite, PostgreSQL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL, SQLite, PostgreSQL
 
 **✅ Version Control:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git, GitHub
