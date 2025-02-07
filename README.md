@@ -18,7 +18,7 @@ Gmail: **sabrinahossain202@gmail.com**
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinaakter/)
 
-[![](https://visitcount.itsvg.in/api?id=Sabrina-Akter&icon=6&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Sabrina-Akter)
 
 ## 💻 Tech Stack:
 **✅ Programming Languages:** <br>
